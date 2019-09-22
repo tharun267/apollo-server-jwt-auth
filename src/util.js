@@ -32,7 +32,7 @@ const comparePassword = (password, hash) => new Promise(async (resolve, reject) 
 
 const getToken = payload => {
     const token = jwt.sign(payload, config.secret, {
-        expiresIn: 100 //604800, // 1 Week
+        expiresIn: 604800, // 1 Week
     })
     return token
 }
