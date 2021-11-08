@@ -19,7 +19,7 @@
     "async await"
   ],
   "dependencies": {
-    "apollo-server": "^2.9.3",
+    "apollo-server": "^2.25.3",
     "bcryptjs": "^2.4.3",
     "graphql": "^14.5.4",
     "jsonwebtoken": "^8.5.1",
