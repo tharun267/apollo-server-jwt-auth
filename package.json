@@ -22,7 +22,7 @@
     "apollo-server": "^2.9.3",
     "bcryptjs": "^2.4.3",
     "graphql": "^14.5.4",
-    "jsonwebtoken": "^8.5.1",
+    "jsonwebtoken": "^9.0.0",
     "mongodb": "^3.3.2"
   },
   "scripts": {
